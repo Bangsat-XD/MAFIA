@@ -246,10 +246,10 @@ s6���xdg-open https://www.google.com/search?q=my+user+agents��� [%s
 ���vau_ua.txtRH���s���%s-s"���
  %s[%s+%s] YOUR USER AGENT : %s%ss���
   %s[ %sBACK%s ](	���R9���RZ���R[���R'���R&���R2���R3���R>���RD���(���t
-���user_agent(����(����s���/sdcard/king.pyRŽ���]��s����
+���user_agent(����(����s���/sdcard/mafia.pyRŽ���]��s����
 
 ��Re���c�����������B���s>���e��Z�d��„��Z�d�„��Z�d�„��Z�d�„��Z�d�„��Z�d�„��Z�RS(���c���������C���s
-���g��|��_��d��S(���N(���R{���(���t���self(����(����s���/sdcard/king.pyt���__init__i��s����c������������sB��y\�t��d�t�t�f�ƒ�ˆ��_�t�ˆ��j�ƒ�j�ƒ��j�ƒ��ˆ��_�d�t�t�t�t	�ˆ��j�ƒ�t�f�GHWnP�d�t�t�t�t�ˆ��j�t�f�GHt
+���g��|��_��d��S(���N(���R{���(���t���self(����(����s���/sdcard/mafia.pyt���__init__i��s����c������������sB��y\�t��d�t�t�f�ƒ�ˆ��_�t�ˆ��j�ƒ�j�ƒ��j�ƒ��ˆ��_�d�t�t�t�t	�ˆ��j�ƒ�t�f�GHWnP�d�t�t�t�t�ˆ��j�t�f�GHt
 �j�d�ƒ�t��d�t�t�t�f�ƒ�t�ƒ��n�Xt��d�t�t�f�ƒ�}�|�d�k�rÍd	�t�t�t�f�GHd
 �t�t�t�f�GHxFt
 �rÉt��d�t�t�f�ƒ�}�d�t�|�t�f�GH|�d
@@ -418,4 +418,4 @@ R–���i���s���<=>RT���i���i���i���
 
 
 
-	Syam King
+	Bangsat-XD
